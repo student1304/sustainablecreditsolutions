@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sustainable Credit Solutions"
+theme = "hugo-icon"
