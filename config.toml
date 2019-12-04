@@ -12,7 +12,7 @@ title = "Sustainable Credit Solutions"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/skyline_green.png" #hero_bg.jpg"
+  img = "./images/skyline_green.png" #hero_bg.jpg"
   title = "Sustainable Credit Solutions"
   description = "Providing climate impact assessments for credit insitutions."
 
