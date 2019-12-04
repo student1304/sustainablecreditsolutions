@@ -1,5 +1,5 @@
 # Main config file for icon theme.
-theme = "hugo-icon"
+theme = "hugo-icon2"
 baseURL = "https://www.sustainable-credit-solutions.eu/"
 languageCode = "en-AU"
 title = "Sustainable Credit Solutions"
