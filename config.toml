@@ -14,7 +14,7 @@ title = "Sustainable Credit Solutions"
 [params.hero]
   img = "./images/skyline_green.png" #hero_bg.jpg"
   title = "Sustainable Credit Solutions"
-  description = "Providing climate impact assessments for credit insitutions."
+  description = "Providing climate impact assessments for credit institutions."
 
 # Navigation section
 [params.nav]
