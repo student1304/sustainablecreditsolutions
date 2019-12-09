@@ -9,6 +9,7 @@ title = "Sustainable Credit Solutions"
 [params]
   author = "Bjoern Holste"
   description = "Sustainable Credit Solutions"
+  keywords = "climate, credit, sustainable, risk, credit-model, regulation"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
@@ -44,24 +45,26 @@ title = "Sustainable Credit Solutions"
 
 
   [[params.mission.item]]
-    weight = 1
-    name = "Challenge"
+    weight = 1  
+    name = "challenge"
     title = "Challenge"
-    subtitle = "Climate Risk Assessment will have to be included in credit scores. Can all 6.000 European Banks hire climate specialists? "
+    subtitle = "Regulators will likely require the inclusion of Climate Risk in credit scores in the near future. Can all 6.000 European Banks hire climate specialists? "
+    
     #description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
     name = "resources"
     title = "Resources"
-    subtitle = "We partner with top-tier institutions across diverse industries to collect high quality data and calculate ready-to-use climate risk assessments."
+    subtitle = "We're setting up a project which will create a solution in close partnership with top-tier institutions across diverse industries to collect high quality data and calculate ready-to-use climate risk assessments."
+    
     #description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 3
     name = "solution"
     title = "Solution"
-    subtitle = "Our product is a fully digital solution for banks to integrate climate risk into their credit models and AnaCredit reporting."
+    subtitle = "Our product will be a fully digital solution for banks and credit institutions to integrate climate risk into credit models and potentially into AnaCredit reporting. Digital. Automated. Accurate."
     #description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio dolore illum expedita placeat debitis, dignissimos obcaecati et modi. Possimus id dicta consequuntur veritatis, reiciendis at expedita voluptate sint distinctio eligendi!</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
 # Services section
@@ -70,22 +73,22 @@ title = "Sustainable Credit Solutions"
   video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
-  description = "We provide physical and transition risk evaluations to integrate into credit models and loan portfolios climate risk assessment."
+  description = "We will provide physical and transition risk evaluations to integrate into credit models and loan portfolios climate risk assessment."
 
   [[params.services.item]]
     icon = "icon-support"
     title = "Physical Risk"
-    description = "Our physical risk assessment is based on high-quality data from best-of-class providers"
+    description = "Our physical risk assessment will be based on high-quality data from best-of-class providers"
 
   [[params.services.item]]
     icon = "icon-pencil"
     title = "Transition Risk"
-    description = "Our transition risk assessment is based on scientifically proven industry classifications and machine-learning."
+    description = "Our transition risk assessment will be based on scientifically proven industry classifications and machine-learning."
 
   [[params.services.item]]
     icon = "icon-rocket"
     title = "Plug-and-Play"
-    description = "We tailor our service to your needs of our customers with the objective to provide fast deployment and integration in your credit model."
+    description = "We look to tailor our service to the needs of our customers with the objective to provide fast deployment and integration in your credit model."
 
 
 
@@ -141,17 +144,17 @@ title = "Sustainable Credit Solutions"
 
   [[params.team.item]]
     name = "Dr. Björn Holste"
-    position = "Generalist"
+    position = "Generalist & Digital Enthusiast"
     description = "Dr. Björn Holste was educated at the University of Kaiserslautern, Babcock Graduate School North Carolina and Harvard Business School. He holds a masters degree in mechanical engineering and business administration as well as a PhD in macroeconomics. Björn has 20 years of professional experience in the financial industry with major institutions on Managing Director level and extensive background in major programming languages. His research interests include machine learning and digitalization of financial services."
     img = "./images/bjoern.jpg"
-    email = "bjoern@c4c.eu"
-    telephone = "+49 123 4567 890"
+    email = "bjoern@sustainable-credit-solutions.eu.eu"
+    #telephone = "+49 123 4567 890"
     #facebook = "#"
-    twitter = "#c4c"
+    twitter = "https://twitter.com/SusCredSol"
     #dribbble = "#"
     #instagram = "#"
-    github = "#c4c"
-    linkedin = "#c4c"
+    #github = "#c4c"
+    linkedin = "https://www.linkedin.com/in/bjoern-holste"
     #whatsapp = "#"
 
   [[params.team.item]]
@@ -159,10 +162,10 @@ title = "Sustainable Credit Solutions"
     position = "Sustainability & Climate Expert"
     description = "Dr. Willem Schramade is specialized in sustainable finance. His book ‘Principles of Sustainable Finance’ (with Prof. Dirk Schoenmaker) appeared with Oxford University Press in 2018. Willem has 19 years business experience, of which 12 years in asset management, at NN Investment Partners & Robeco. Previously, he also held positions at GE, PWC and Erasmus University, where he obtained his PhD in corporate finance in 2006."
     img = "./images/willem.jpg"
-    email = "willem@c4c.eu"
-    telephone = "+49 123 4567 890"
+    email = "willem@sustainable-credit-solutions.eu"
+    #telephone = "+49 123 4567 890"
     #facebook = "#"
-    twitter = "#c4c"
+    twitter = "https://twitter.com/SusCredSol"
     #dribbble = "#"
     #instagram = "#"
     #github = "#"
@@ -173,10 +176,10 @@ title = "Sustainable Credit Solutions"
     position = "Credit & Banking Specialist"
     description = "Mr. Borislav Kostadinov is an accomplished international banking executive with 20 years of leadership experience at CEO level. He served at the Management Board of ProCredit Group and in this capacity was responsible for Group Credit Risk Management, established the Group’s Environmental Management and Green Finance strategy, led the successful listing on the Frankfurt Stock Exchange as well as the subsequent capital raise"
     img = "./images/borislav.jpg"
-    email = "borislav@c4c.eu"
-    telephone = "+49 123 456 7890"
+    email = "borislav@sustainable-credit-solutions.eu"
+    #telephone = "+49 123 456 7890"
     #facebook = "#"
-    twitter = "#c4c"
+    twitter = "https://twitter.com/SusCredSol"
     #dribbble = "#"
     #instagram = "#"
     #github = "#"
@@ -198,23 +201,24 @@ title = "Sustainable Credit Solutions"
 
 # Contact section
 [params.contact]
-  enable = false
+  enable = true
   title = "Get In Touch "
-  message = "Please reach out to get in touch"
+  #message = "Please email us to get in touch"
   #name_placeholder = "Please enter your name"
   #email_placeholder = "Please enter your email"
   #email_disclaimer = "We'll never share your email with anyone else."
   #message_placeholder = "Please enter a message"
-  #button_text = "Submit"
+  button_text = "Email us"
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
   #note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
-  note = "<p>&copy; 2019 Sustainable Credit Solutions. All rights reserved."
+  note = "&copy; 2019 Sustainable Credit Solutions. All rights reserved."
   #github = "#"
-  twitter = "#"
+  twitter = "https://twitter.com/share?ref_src=twsrc%5Etfw"
+  #<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   #facebook = "#"
   #vine = "#"
   #linkedin = "#"
